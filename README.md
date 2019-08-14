@@ -7,6 +7,18 @@ how to use
 2.run commander.py enter the full path to lulz.php file
 DOne!!!
  
+dependencies
+
+1.python
+
+2.requests Module
+
+3.torrequest Module
+
+4.urlparse Module
+
+5.RSA Module
+ 
 contact us : https://www.facebook.com/LulzSecIndiaOfficial/
                                                                    
 command:
