@@ -23,6 +23,6 @@ Delete all files = fuckserver
 
 check if cpanel can be creck = ccheck
 
-creck cpanel =  creckzee  
+Crack cpanel =  creckzee  
 
 backconnect = backconnect
