@@ -9,7 +9,8 @@ DOne!!!
  
 contact us : https://www.facebook.com/LulzSecIndiaOfficial/
                                                                    
- 
+command:
+
 Encrypt files = cry
 
 Decrypt files = decry                                                                            
