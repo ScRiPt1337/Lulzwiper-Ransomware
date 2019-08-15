@@ -9,6 +9,8 @@ DOne!!!
  
 dependencies
 
+linux only
+
 1.python
 
 2.requests Module
@@ -18,6 +20,8 @@ dependencies
 4.urlparse Module
 
 5.RSA Module
+
+defult passs lulzindia
  
 contact us : https://www.facebook.com/LulzSecIndiaOfficial/
                                                                    
