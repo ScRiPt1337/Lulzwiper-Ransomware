@@ -1,25 +1,13 @@
 # Lulzwiper-Ransomware
-Lulzwiper Ransomware 1.0
+Lulzwiper Ransomware 2.0
 
 how to use
 
 1.upload lulz.php to use target site
 2.run commander.py enter the full path to lulz.php file
 DOne!!!
- 
-dependencies
 
-linux only
-
-1.python
-
-2.requests Module
-
-3.torrequest Module
-
-4.urlparse Module
-
-5.RSA Module
+only windows
 
 defult passs lulzindia
  
