@@ -3,7 +3,7 @@ Lulzwiper Ransomware 2.0
 
 how to use
 
-1.upload lulz.php to use target site
+1.upload lulz.php in target site
 
 2.run commander.exe enter the full path to lulz.php file
 
