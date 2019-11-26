@@ -13,8 +13,8 @@ only windows
 
 defult passs lulzindia
  
-contact us : https://www.facebook.com/LulzSecIndiaOfficial/
-                                                                   
+contact us : https://www.facebook.com/LulzSecIndiaOfficial/ Or https://www.facebook.com/Script1337/
+                                                            
 command:
 
 Encrypt files = cry
