@@ -5,11 +5,9 @@ how to use
 
 1.upload lulz.php in target site
 
-2.run commander.exe enter the full path to lulz.php file
+2.run god.py enter the full path to lulz.php file
 
 DOne!!!
-
-only windows
 
 defult passs lulzindia
  
