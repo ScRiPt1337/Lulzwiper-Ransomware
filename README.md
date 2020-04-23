@@ -1,5 +1,5 @@
 # Lulzwiper-Ransomware
-Lulzwiper Ransomware 2.0
+Lulzwiper Ransomware 2.1
 
 how to use
 
