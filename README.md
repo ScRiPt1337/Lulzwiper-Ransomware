@@ -11,7 +11,7 @@ DOne!!!
 
 defult passs lulzindia
  
-https://discord.gg/2eBYku3
+contact us : https://discord.gg/2eBYku3
                                                             
 command:
 
